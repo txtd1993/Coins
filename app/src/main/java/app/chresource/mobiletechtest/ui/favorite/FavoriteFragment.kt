@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import app.chresource.mobiletechtest.R
 import app.chresource.mobiletechtest.databinding.FragmentHomeBinding
 import app.chresource.mobiletechtest.db.entities.Currency
-import kotlinx.android.synthetic.main.fragment_dashboard.*
+import kotlinx.android.synthetic.main.fragment_favorite.*
 import kotlinx.android.synthetic.main.header.*
 
 class FavoriteFragment : Fragment(), LocalCurrencyAdapter.ICurrencyListener {
