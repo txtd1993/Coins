@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MobileTechTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_list_currencies">Currencies</string>
+    <string name="txt_filter_currency">Filter Currency</string>
+    <string name="search_hint">Input keyword to search</string>
+    <string name="buy_format">Buy: %s - %s$</string>
+    <string name="sell_format">Sell: %s - %s$</string>
+    <string name="counter_format">Counter: %s</string>
+    <string name="base_format">Base: %s</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+</resources>
